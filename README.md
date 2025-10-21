@@ -1,6 +1,6 @@
 # haiii hiiii hello!!!!!!!!
 
-  I'm working on a kernel project... eventualy functioning OS? maybe..
-  probably not though.. I need to learn more before I can do this actualy.
+  so I thought I could make my own kernel obviously I have no experience nor knowledge in any of that.
+  Maybe I should make some app..
 
-  I should actualy be studying more????????
+  I should actualy start studying
